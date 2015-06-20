@@ -1,7 +1,8 @@
-## real-time-online-activity-monitor-example-with-tornado-and-websocket
+## real time online activity monitor example
 
 Tornado + WebSocket + SmoothieChart
 
+[Image](https://raw.githubusercontent.com/vi5i0n/rsp-monitor/master/raspberry-monitor.png)
 
 ### run
 
