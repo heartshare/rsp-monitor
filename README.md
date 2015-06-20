@@ -2,7 +2,7 @@
 
 Tornado + WebSocket + SmoothieChart
 
-[Image](https://raw.githubusercontent.com/vi5i0n/rsp-monitor/master/raspberry-monitor.png)
+![Image](https://raw.githubusercontent.com/vi5i0n/rsp-monitor/master/raspberry-monitor.png)
 
 ### run
 
