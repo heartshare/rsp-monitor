@@ -1,0 +1,35 @@
+body{
+    padding-top: 50px;
+    padding-bottom: 16px;
+    font-size: 18px;
+    word-wrap: break-word;
+    /*font-family:"Quantico","Microsoft YaHei UI","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;*/
+    color: #555;
+}
+@media (min-width: 1024px) {
+    .container {
+        max-width: 970px;
+    }
+}
+.no-padding{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.info-left{
+    height:130px;
+    background-color: rgb(223, 223, 223);
+    text-align: center;
+
+}
+.info-left h1{
+    font-size: 65px;
+    margin: 0px;
+    padding-top: 10px;
+
+}
+.cpu-color{
+    color: rgb(0,200,0);
+}
+.mem-color{
+    color:rgb(171, 24, 82);
+}
